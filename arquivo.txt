@@ -1,7 +1,0 @@
-{
-  "marca": "Honda",
-  "tipo": "Carro"
-}{
-  "marca": "Honda",
-  "tipo": "Carro"
-}
